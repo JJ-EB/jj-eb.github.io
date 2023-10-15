@@ -11,7 +11,7 @@ Please select an image to view a collection.
 
 # Mountains
 
-[![](/assets/images/placeholder-2.jpg)]({{site.url}}/2020/12/22/Mountains.html)
+[![](/assets/images/20170105_161642.jpg)]({{site.url}}/2020/12/22/Mountains.html)
 
 # Trees
 
