@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Make sure photos are the same dimensions
+Make sure photos are the same dimensions Naaman
 
 | ![](/assets/images/placeholder-1.jpg) | ![](/assets/images/placeholder-2.jpg) |
 | Insert Caption | Insert Caption |
