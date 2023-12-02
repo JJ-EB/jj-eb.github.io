@@ -20,5 +20,5 @@ Make sure photos are the same dimensions Naaman
 | Insert Caption | Insert Caption |
 | ![](/assets/images/placeholder-3.jpg) | ![](/assets/images/placeholder-4.jpg) |
 | Insert Caption | Insert Caption |
-| ![](/assets/images/placeholder-5.jpg) | ![](/assets/images/placeholder-7.jpg) |
-| Insert Caption | Insert Caption |
+| ![](/assets/images/placeholder-5.jpg) | ![](/assets/images/2023_Sri_Lanka/IMG_8820.JPG) |
+| Insert Caption | Sigiriya |
